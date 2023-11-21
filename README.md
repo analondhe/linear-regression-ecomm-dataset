@@ -62,7 +62,7 @@ jupyter notebook
 ## Contact
 
 - Email: anaghaalondhe7@gmail.com
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/anaghaa-londhe-10331a113)
+- LinkedIn: www.linkedin.com/in/anaghaa-londhe-10331a113
 
 Feel free to reach out for any questions or collaborations!
 
