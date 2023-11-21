@@ -1,2 +1,69 @@
 # linear_regression_ecommdataset
-A jupyter notebook which shows how a ecomm dataset is analysed and linear regression is used for prediction
+# Exploratory Data Analysis and Linear Regression Analysis
+
+## Overview
+
+This repository contains a Jupyter notebook where Exploratory Data Analysis (EDA) and Linear Regression analysis have been performed on a dataset. The primary goal of this analysis is to gain insights into the data and understand the relationships between variables using linear regression.
+
+## Getting Started
+
+### Prerequisites
+
+Before running the Jupyter notebook, make sure you have the following dependencies installed:
+
+- Jupyter Notebook
+- Python 3.11
+- Required Python packages: pandas, numpy, matplotlib, seaborn, scikit-learn
+
+You can install the required packages using the following command:
+
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn
+```
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/analondhe/linear_regression_ecommdataset.git
+cd linear_regression_ecommdataset
+```
+
+2. Run Jupyter Notebook:
+
+```bash
+jupyter notebook
+```
+
+3. Open the notebook in your browser and navigate to the `analysis.ipynb` file.
+
+## Notebook Contents
+
+1. **Introduction:**
+    - Brief overview of the dataset and the problem statement.
+
+2. **Exploratory Data Analysis (EDA):**
+    - Data loading and cleaning.
+    - Summary statistics.
+    - Visualization of key features using plots and graphs.
+
+3. **Linear Regression Analysis:**
+    - Data preprocessing.
+    - Splitting the dataset into training and testing sets.
+    - Building a linear regression model.
+    - Model evaluation using metrics such as Mean Squared Error, R-squared, etc.
+    - Visualizing the regression line.
+
+4. **Conclusion:**
+    - Summary of findings and insights gained from the analysis.
+
+
+## Contact
+
+- Email: anaghaalondhe7@gmail.com
+- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/anaghaa-londhe-10331a113)
+
+Feel free to reach out for any questions or collaborations!
+
+**Happy analyzing!**
