@@ -26,8 +26,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/analondhe/linear_regression_ecommdataset.git
-cd linear_regression_ecommdataset
+git clone https://github.com/analondhe/linear-regression-ecomm-dataset.git
+cd linear-regression-ecomm-dataset
 ```
 
 2. Run Jupyter Notebook:
@@ -44,8 +44,7 @@ jupyter notebook
     - Brief overview of the dataset and the problem statement.
 
 2. **Exploratory Data Analysis (EDA):**
-    - Data loading and cleaning.
-    - Summary statistics.
+    - Data loading and cleaning
     - Visualization of key features using plots and graphs.
 
 3. **Linear Regression Analysis:**
@@ -54,9 +53,6 @@ jupyter notebook
     - Building a linear regression model.
     - Model evaluation using metrics such as Mean Squared Error, R-squared, etc.
     - Visualizing the regression line.
-
-4. **Conclusion:**
-    - Summary of findings and insights gained from the analysis.
 
 
 ## Contact
